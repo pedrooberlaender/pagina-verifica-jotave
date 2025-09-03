@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://joaooliveira.digital/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow important pages
+Allow: /index.html
+Allow: /politica-privacidade.html
+Allow: /termos-uso.html
+
+# Crawl delay
+Crawl-delay: 1
